@@ -1,0 +1,51 @@
+.navbar {background-color: rgb(220, 247, 247)!important; color: rgb(3, 44, 30) !important;}
+body {background-image: url(bgimg.JPG);
+       background-size: 100%;
+    background-repeat: repeat-y;
+    background: cover;    }
+
+
+h1 {
+ font-weight: bolder; font-size: x-large; text-align: start; padding-bottom: 7px; padding-left: 2px; color: rgb(16, 151, 147);
+}
+img {width: 350px;
+height: 350px;
+padding: 8px;}
+p {text-align: start; padding-left: 8px;}
+
+.wrapper {
+    width: 60%;
+    margin-left: 30px;
+    margin-right: 60px;
+    padding: 15px;
+background-color: rgb(201, 221, 221);}
+
+.btn-primary {background-color: rgb(6, 71, 71); border: none !important;}
+
+
+.no-padding {padding-right: 0px; padding-left: 0px; padding-top: 40px;}
+
+
+.aboutmeimage {float: left;
+margin-right:  10px;
+margin-bottom: 10px;}
+
+footer {display: flex;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    border-top: 5px solid rgb(36, 97, 105); }
+    
+    @media screen and (max-width: 600px) {
+        .wrapper {rgb(201, 221, 221, 0);}
+        img {
+          width: 200px;
+          height: 200px;
+        }
+         .aboutmeimage { float: none;}}
+      }
+
+     
