@@ -1,3 +1,1 @@
-# Portfolio_Homework
-
-This is my first website built with CSS Bootstrap. I have tried to make the most of responsiveness built into Bootstrap. For the images I used photos of my paintings, having decided to make it more meaningful than simple excersize in topography. 
+As my journey in coding continues, I am updaing my portfolio with new apps and skill I have developed. Now included in portfolio Essential Conncetions project, Quiz app and Daily Planner App. 
